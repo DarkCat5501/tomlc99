@@ -1,0 +1,17 @@
+{
+	"name": "tomlc99",
+	"version": "1.0.0",
+	"description": "TOML in c99; v1.0 compliant",
+	"repo": "DarkCat5501/tomlc99",
+	"src": ["toml.c", "toml.h"],
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:DarkCat5501/tomlc99.git"
+	},
+	"keywords": ["parse", "toml", "file"],
+	"author": "CK Tan",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/cktan/tomlc99/issues"
+	}
+}
