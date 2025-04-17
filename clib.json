@@ -1,8 +1,8 @@
 {
 	"name": "tomlc99",
 	"version": "1.0.0",
+	"repo": "Darkcat5501/tomlc99",
 	"description": "TOML in c99; v1.0 compliant",
-	"repo": "DarkCat5501/tomlc99",
 	"src": ["toml.c", "toml.h"],
 	"repository": {
 		"type": "git",
